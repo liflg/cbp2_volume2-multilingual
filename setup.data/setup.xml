@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<install 
+ product="ut2004" 
+ desc="Unreal Tournament 2004" 
+ version="1.0-2"
+ component="CBP2_volume2"
+ express="no"
+ splashpos="top"
+>
+
+ <readme>
+  README.liflg
+ </readme>
+
+ <option install="true" required="true" size="539.2M">
+   Community Bouns Pack 2 - Volume 2
+  <help>Required for play</help>
+  
+  <files>
+   cbp2_volume2.tar.bz2
+  </files>
+
+ </option>
+</install>
